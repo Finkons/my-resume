@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #f5f7fa;
+  background-color: #44cfe7;
 }
 .main-container {
   display: flex;
@@ -162,7 +162,7 @@ body {
 /* sidebar section */
 
 .sidebar {
-  background-color: #1e2939;
+  background-color: #a1e72f;
   width: 370px;
 }
 .contacts-section {
