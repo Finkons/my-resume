@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #44cfe7;
+  background-color: #afaca7;
 }
 .main-container {
   display: flex;
@@ -8,9 +8,9 @@ body {
   width: 1200px;
   left: 40px;
   top: 40px;
-  background-color: rgb(61, 211, 238);
+  background-color: rgb(247, 244, 240);
   margin: 40px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 6px 6px 20px rgba(223, 12, 12, 0.1);
 }
 /* main content section */
 .main-content-section {
@@ -107,7 +107,7 @@ body {
   margin: 0 0 10px 0;
 }
 .work-experience-company {
-  color: #fb6d3a;
+  color: #f56f02ea;
 }
 .my-work-experience-period {
   font-style: normal;
@@ -162,7 +162,7 @@ body {
 /* sidebar section */
 
 .sidebar {
-  background-color: #a1e72f;
+  background-color: #f15c06;
   width: 370px;
 }
 .contacts-section {
